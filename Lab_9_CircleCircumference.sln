@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_9_CircleCircumference", "Lab_9_CircleCircumference\Lab_9_CircleCircumference.csproj", "{0145DF9B-0CC4-430C-93B4-64AA608EFD0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleTest", "CircleTest\CircleTest.csproj", "{1B98D440-C88B-4891-A6D4-326EC00D3677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0145DF9B-0CC4-430C-93B4-64AA608EFD0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0145DF9B-0CC4-430C-93B4-64AA608EFD0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0145DF9B-0CC4-430C-93B4-64AA608EFD0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B98D440-C88B-4891-A6D4-326EC00D3677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B98D440-C88B-4891-A6D4-326EC00D3677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B98D440-C88B-4891-A6D4-326EC00D3677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B98D440-C88B-4891-A6D4-326EC00D3677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
